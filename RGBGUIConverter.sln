@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RGBGUIConverter", "RGBGUIConverter.vcxproj", "{A12213DA-2262-405A-A33E-B7D088E37574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A12213DA-2262-405A-A33E-B7D088E37574}.Debug|x64.ActiveCfg = Debug|x64
+		{A12213DA-2262-405A-A33E-B7D088E37574}.Debug|x64.Build.0 = Debug|x64
+		{A12213DA-2262-405A-A33E-B7D088E37574}.Debug|x86.ActiveCfg = Debug|Win32
+		{A12213DA-2262-405A-A33E-B7D088E37574}.Debug|x86.Build.0 = Debug|Win32
+		{A12213DA-2262-405A-A33E-B7D088E37574}.Release|x64.ActiveCfg = Release|x64
+		{A12213DA-2262-405A-A33E-B7D088E37574}.Release|x64.Build.0 = Release|x64
+		{A12213DA-2262-405A-A33E-B7D088E37574}.Release|x86.ActiveCfg = Release|Win32
+		{A12213DA-2262-405A-A33E-B7D088E37574}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DCDDEF2-DBD6-48A2-8051-15929968C9D7}
+	EndGlobalSection
+EndGlobal
